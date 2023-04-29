@@ -35,3 +35,9 @@ The script will output the container names of the running WordPress instances an
 ## License
 
 This project is licensed under the MIT License.
+
+## Want to connect?
+
+Feel free to contact me on [Twitter](https://twitter.com/OnlineAnto) or [LinkedIn](https://www.linkedin.com/in/anto-online) if you have any questions or suggestions.
+
+Or just visit my [website](https://anto.online) to see what I do.
